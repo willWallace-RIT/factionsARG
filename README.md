@@ -9,3 +9,4 @@ they cannot reenter play until submitting the team name to the score server.
 this is that server.
 
 currently setting up a godot  + firebase web io to run off of itch
+broken submission is acting up
